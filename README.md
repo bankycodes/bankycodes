@@ -11,6 +11,6 @@
 - **Security Focus:** Skilled in implementing security best practices, conducting vulnerability assessments, and configuring firewalls and intrusion detection systems (IDS).
 - **Linux Proficiency:** Strong background in Linux system administration, including server setup and configuration, performance tuning, and troubleshooting.
 
-📫 Let's connect! Feel free to reach out via [LinkedIn] to discuss collaboration opportunities or chat about all things tech.
+📫 Let's connect! Feel free to reach out via https://www.linkedin.com/in/bankoletobi/ to discuss collaboration opportunities or chat about all things tech.
 
 Happy coding! 🚀
